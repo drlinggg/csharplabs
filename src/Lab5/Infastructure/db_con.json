@@ -1,0 +1,9 @@
+{
+  "Host" : "string",
+  "Port" : 5432,
+  "Database" : "string",
+  "Username" : "string",
+  "Password" : "string",
+  "SslMode" : "string",
+  "Pooling" : true
+}
